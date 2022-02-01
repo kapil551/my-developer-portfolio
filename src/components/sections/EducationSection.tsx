@@ -29,7 +29,7 @@ const EducationSection = () => {
                   G L Bajaj Institute of Technology and Management
                 </span>
                 <span className="text-base sm:text-lg">
-                  Greate Noida, Uttar Pradesh, India
+                  Greater Noida, Uttar Pradesh, India
                 </span>
                 <span className="text-base sm:text-lg">CGPA: 8.15/10</span>
               </div>
