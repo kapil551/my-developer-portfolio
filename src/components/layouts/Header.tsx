@@ -61,7 +61,7 @@ const Header: FC<{ setShowHeader: any }> = ({ setShowHeader }) => {
       })}
     >
       <nav className={classNames(" flex items-center justify-around w-full uppercase")}>
-        <ul className="flex justify-center flex-auto tracking-wide space-x-14 ">
+        <ul className="flex justify-center flex-auto tracking-wide space-x-12">
           <li className="cursor-pointer">
             <a aria-label="hero" href="#hero">
               <AiFillHome className="block w-5 h-5 md:hidden" />

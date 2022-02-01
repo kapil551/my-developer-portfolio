@@ -47,7 +47,7 @@ const HeroSection = () => {
       >
         <RiArrowDownSLine className="w-6 h-6" />
       </motion.span>
-      <div className="grid place-items-center">
+      <div className="grid place-items-center p-2">
         <motion.div variants={textContainer} initial="initial" animate="animate" className="space-y-3">
           <motion.p variants={fadeIn("up")} className="text-sm text-green-100 md:text-lg">
             Web • Mobile • Actively Looking for Internship/Full Time Job
@@ -87,7 +87,7 @@ const HeroSection = () => {
             )}
           </AnimatePresence>
 
-            <div className="flex justify-start items-start space-x-4 sm:space-x-12 pt-2">
+            <div className="flex justify-start items-start space-x-4 sm:space-x-12 pt-2 -ml-2 sm:ml-0">
               <motion.button variants={fadeIn("up")} className="bg-gray-900 border-gray-700 rounded-sm px-4 py-2 flex justify-center items-center space-x-2">
                 <GiTie />
                 <span  onClick={() => window.open("mailto:chaudharikapil16@gmail.com")}>Hire Me</span>  
