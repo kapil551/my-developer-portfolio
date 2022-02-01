@@ -58,58 +58,58 @@ export const projects: Project[] = [
     key_techs: ["JavaScript", "HTML5", "CSS3", "Tailwind", "Local Storage", "DOM Manipulation"],
   },
 
-  {
-    id: 4,
-    name: "Project Title",
-    deployed_url: "",
-    github_url: "",
-    category: ["express", "socket", "react"],
-    points: [
-      " • Project Description Line 1",
-      " • Project Description Line 2",
-      " • Project Description Line 3"
-    ],
-    key_techs: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
-  },
-  {
-    id: 5,
-    name: "Project Title",
-    deployed_url: "",
-    github_url: "",
-    category: ["express", "socket", "react"],
-    points: [
-      " • Project Description Line 1",
-      " • Project Description Line 2",
-      " • Project Description Line 3"
-    ],
-    key_techs: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
-  },
-  {
-    id: 6,
-    name: "Project Title",
-    deployed_url: "",
-    github_url: "",
-    category: ["express", "socket", "react"],
-    points: [
-      " • Project Description Line 1",
-      " • Project Description Line 2",
-      " • Project Description Line 3"
-    ],
-    key_techs: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
-  },
-  {
-    id: 7,
-    name: "Project Title",
-    deployed_url: "",
-    github_url: "",
-    category: ["express", "socket", "react"],
-    points: [
-      " • Project Description Line 1",
-      " • Project Description Line 2",
-      " • Project Description Line 3"
-    ],
-    key_techs: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
-  },
+  // {
+  //   id: 4,
+  //   name: "Project Title",
+  //   deployed_url: "",
+  //   github_url: "",
+  //   category: ["express", "socket", "react"],
+  //   points: [
+  //     " • Project Description Line 1",
+  //     " • Project Description Line 2",
+  //     " • Project Description Line 3"
+  //   ],
+  //   key_techs: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
+  // },
+  // {
+  //   id: 5,
+  //   name: "Project Title",
+  //   deployed_url: "",
+  //   github_url: "",
+  //   category: ["express", "socket", "react"],
+  //   points: [
+  //     " • Project Description Line 1",
+  //     " • Project Description Line 2",
+  //     " • Project Description Line 3"
+  //   ],
+  //   key_techs: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
+  // },
+  // {
+  //   id: 6,
+  //   name: "Project Title",
+  //   deployed_url: "",
+  //   github_url: "",
+  //   category: ["express", "socket", "react"],
+  //   points: [
+  //     " • Project Description Line 1",
+  //     " • Project Description Line 2",
+  //     " • Project Description Line 3"
+  //   ],
+  //   key_techs: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
+  // },
+  // {
+  //   id: 7,
+  //   name: "Project Title",
+  //   deployed_url: "",
+  //   github_url: "",
+  //   category: ["express", "socket", "react"],
+  //   points: [
+  //     " • Project Description Line 1",
+  //     " • Project Description Line 2",
+  //     " • Project Description Line 3"
+  //   ],
+  //   key_techs: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
+  // },
 ];
 
 export const certifiates: Certificate[] = [
