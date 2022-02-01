@@ -2,7 +2,7 @@ import { Project, Certificate } from "@libs/types";
 
 import spotify from "@public/images/projects/spotify.png";
 import airbnb from "@public/images/projects/airbnb.png";
-import jiraClone from "@public/images/projects/jiraClone.png";
+import jiraClone from "@public/images/projects/jira-clone.png";
 import reactCertificate from "@public/images/certificates/reactCertificate.webp";
 import javaScriptCertificate from "@public/images/certificates/javaScriptCertificate.webp";
 import nextCertificate from "@public/images/certificates/nextCertificate.webp";
