@@ -94,7 +94,7 @@ const HeroSection = () => {
               </motion.button>
               <motion.button variants={fadeIn("up")} className="bg-gray-900 border-gray-700 rounded-sm px-4 py-2 flex justify-center items-center space-x-2">
                 <FaRegFilePdf />
-                <a download="Kapil_Chaudhary_SDE_Resume.pdf" href="https://drive.google.com/file/d/1QqOlWvegEs6tCgjg6KVOrVqxFsN80Opm/view" target='_blank'>Get Resume</a>
+                <a download="Kapil_Chaudhary_SDE_Resume.pdf" href="https://drive.google.com/file/d/1ZV3ihOaAnRkt67seJWlAZgfd3d4VG4xk/view" target='_blank'>Get Resume</a>
               </motion.button>
             </div>
         </motion.div>
